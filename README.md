@@ -11,4 +11,4 @@
 ![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 # View
-[프로젝트 구경하기](http://localhost/miniproject/html/index.html)
+[프로젝트 구경하기](http://localhost:5522/miniproject/html/index.html)
